@@ -71,7 +71,13 @@ Each project demonstrates different tools and techniques I’ve worked with.
   Beginner-friendly Python project using loops and conditionals.  
 
 - **Python Quiz Game** (`Python Quiz Game.ipynb`)  
-  Interactive quiz game in Python.  
+  Interactive quiz game in Python.
+
+  - **Rock, Paper, scissors  Game** (`Rock, Paper, scissors.ipynb`)  
+  Interactive rock , paper, scissors game in Python.
+
+  - **Adventure game** (`Adventure game.ipynb`)  
+  Mini adventure game in Python.  
 
 ---
 
