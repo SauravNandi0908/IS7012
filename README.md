@@ -77,7 +77,13 @@ Each project demonstrates different tools and techniques I’ve worked with.
   Interactive rock , paper, scissors game in Python.
 
   - **Adventure game** (`Adventure game.ipynb`)  
-  Mini adventure game in Python.  
+  Mini adventure game in Python.
+
+  - **PIG Game** (`PIG.ipynb`)  
+  Mini PIG game played betweeen group of people executed in Python.
+
+  - **Madlibs Game** (`Madlibs.ipynb`)  
+  chossing different words for different situations and placing it ina  bracket to create different story and situations from the given Text file.  
 
 ---
 
